@@ -5,19 +5,20 @@ Fake news is a type of propaganda where disinformation is intentionally spread t
 
 Table of Contents:
 1. EDA
+   
     1.1 Reading data
     1.2 Data Visualization of all News Titles
     1.3 Data Visualization of texts in fake news
     1.4 Data Visualization of texts in real news
    
-2. Bag of Words Model
+3. Bag of Words Model
 
-3. Naive Bayes Model
+4. Naive Bayes Model
    Predictions
    Evaluation
    Confusion Matrix
 
-4. Random Forest Model
+5. Random Forest Model
    Predictions
    Evaluation
    Confusion Matrix
